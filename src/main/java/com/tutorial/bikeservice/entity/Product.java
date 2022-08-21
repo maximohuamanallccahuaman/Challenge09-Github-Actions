@@ -27,7 +27,6 @@ public class Product {
     @NotNull
     private String stock;
     @NotBlank
-    @NotNull
     private String price;
     private int orderId;
 }
